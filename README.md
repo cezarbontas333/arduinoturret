@@ -1,6 +1,6 @@
 # arduinoturret
 Some generic arduino turret with auto-aim using facial recognition.
-It uses OpenCV 4.7.0 (the latest one as of writing this) and communicates with the Arduino controller using the Windows serial protocol (so compatibility with other software may be a bit shoddy; this project was made for a university project in 2 days).
+It uses OpenCV 4.7.0 (the latest one as of writing this) and communicates with the Arduino controller using the Windows serial protocol (so compatibility with other OSes may not work).
 The aiming process has been callibrated for [this 3D printed build from the internet](https://www.littlefrenchkev.com/bluetooth-nerf-turret) and having this custom code written for automatically aiming (instead of having it manually controlled).
 
 ### Build instructions
